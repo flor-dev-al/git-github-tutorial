@@ -18,3 +18,11 @@ More advanced commands below ↓
 
 6. git checkout
 7. git revert 
+
+
+
+Using Branching and Merging on Git 
+
+8.  git switch 
+9.  git branch
+10. git merge 
