@@ -3,3 +3,6 @@ This is the fist chapter of using git branches
 New work added to chapter one
 
 This is the end of chapter one
+
+
+This is some local change on the feature-a branch. 
