@@ -1,1 +1,12 @@
-This is my first commit!
+This is my git and github checklist
+
+1.git init
+
+2. git status
+
+3. git add
+
+4. git commit
+
+5. git log 
+
