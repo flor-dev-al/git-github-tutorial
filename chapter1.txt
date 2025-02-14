@@ -1,6 +1,5 @@
 This is the fist chapter of using git branches
 
-I'm creating a merge conflict from branch-one
+New work added to chapter one
 
 This is the end of chapter one
-~
