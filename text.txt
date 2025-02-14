@@ -12,7 +12,7 @@ This is my git and github checklist
 
 ----
 
-I have completed all of these commands !
+I have completed all of these commands 
 
 More advanced commands below ↓
 
