@@ -13,3 +13,9 @@ This is my git and github checklist
 ----
 
 I have completed all of these commands !
+
+More advanced commands below ↓
+
+6. git checkout
+7. git revert
+8. 
