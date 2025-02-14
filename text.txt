@@ -10,3 +10,6 @@ This is my git and github checklist
 
 5. git log 
 
+----
+
+I have completed all of these commands !
